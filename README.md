@@ -4,7 +4,7 @@
 
 模型信息  
 
-![image.png](attachment:029d414d-8b90-437e-a402-9c65efa371ba.png)
+![image](https://user-images.githubusercontent.com/48274303/141740090-f777b59c-b9e4-4100-ac21-f8d7147ce3fc.png)
 
 
 ```python
